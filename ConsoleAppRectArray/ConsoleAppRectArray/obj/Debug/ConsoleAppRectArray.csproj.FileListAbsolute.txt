@@ -1,0 +1,8 @@
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\bin\Debug\ConsoleAppRectArray.exe.config
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\bin\Debug\ConsoleAppRectArray.exe
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\bin\Debug\ConsoleAppRectArray.pdb
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\obj\Debug\ConsoleAppRectArray.csproj.AssemblyReference.cache
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\obj\Debug\ConsoleAppRectArray.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\obj\Debug\ConsoleAppRectArray.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\obj\Debug\ConsoleAppRectArray.exe
+D:\simplilearn\day-4\ConsoleAppRectArray\ConsoleAppRectArray\obj\Debug\ConsoleAppRectArray.pdb
